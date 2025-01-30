@@ -135,7 +135,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - 🌟 [Star on GitHub](https://github.com/holasoymalva/drust-ai)
 - 🐛 [Report Bug](https://github.com/holasoymalva/drust-ai/issues)
 - 💡 [Request Feature](https://github.com/holasoymalva/drust-ai/issues)
-- 📧 Email: [contact@holasoymalva.xyz](mailto:contact@holasoymalva.xyz)
+- 📧 Email: [contact@holasoymalva.xyz](mailto:contact@holasoymalva.com)
 
 ---
 
